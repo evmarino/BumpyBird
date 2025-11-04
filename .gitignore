@@ -1,0 +1,36 @@
+# Unity build/cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Sysroot/
+Artifacts/
+DerivedData/
+CrashReports/
+
+# IDE/solution
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.DotSettings.user
+.vsconfig
+
+# OS misc
+.DS_Store
+Thumbs.db
+
+# TMP auto-generated (safe to regenerate)
+Assets/TextMesh Pro/*/Resources/*
+
+# Android/Gradle
+.gradle/
+ExportedObj/
